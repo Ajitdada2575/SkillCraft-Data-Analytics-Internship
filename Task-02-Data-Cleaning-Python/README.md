@@ -1,6 +1,6 @@
 # Task 02 – Data Cleaning and Preparation using Python (Pandas)
 
-## 📌 Internship
+##  Internship
 **Company:** SkillCraft Technology
 
 **Role:** Data Analyst Intern
@@ -9,7 +9,7 @@
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Data cleaning is one of the most important steps in the data analysis process. Raw datasets often contain missing values, duplicate records, inconsistent data types, and formatting issues that can affect analysis and decision-making.
 
@@ -17,7 +17,7 @@ In this project, I performed data cleaning and preparation using **Python** and 
 
 ---
 
-# 🎯 Objective
+#  Objective
 
 The main objectives of this task were:
 
@@ -31,7 +31,7 @@ The main objectives of this task were:
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 - Python 3
 - Pandas
@@ -40,7 +40,7 @@ The main objectives of this task were:
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 The dataset used in this project contains sales transaction records with information such as:
 
@@ -60,7 +60,7 @@ The dataset used in this project contains sales transaction records with informa
 
 ---
 
-# 📋 Steps Performed
+#  Steps Performed
 
 ## Step 1: Import Pandas Library
 
@@ -191,7 +191,7 @@ df.to_csv('cleaned_sales_data.csv', index=False)
 
 ---
 
-# 📊 Dataset Summary
+#  Dataset Summary
 
 | Description | Value |
 |------------|------:|
@@ -203,7 +203,7 @@ df.to_csv('cleaned_sales_data.csv', index=False)
 
 ---
 
-# 📈 Key Observations
+#  Key Observations
 
 - The dataset was mostly clean.
 - Only the **Postal Code** column contained missing values.
@@ -213,7 +213,7 @@ df.to_csv('cleaned_sales_data.csv', index=False)
 
 ---
 
-# 📚 Skills Learned
+# Skills Learned
 
 During this project, I learned:
 
@@ -228,7 +228,7 @@ During this project, I learned:
 
 ---
 
-# 📁 Project Files
+# Project Files
 
 ```
 Task_02_Data_Cleaning.ipynb
@@ -238,7 +238,7 @@ README.md
 
 ---
 
-# ▶️ How to Run
+# How to Run
 
 1. Open Google Colab or Jupyter Notebook.
 2. Upload the dataset (`train.csv.xlsx`).
@@ -247,7 +247,7 @@ README.md
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 
 This project demonstrates the complete data cleaning workflow using Python and Pandas. The dataset was explored, cleaned, validated, and exported successfully. Missing values were removed, duplicate records were checked, data types were verified, and the cleaned dataset was prepared for further analysis.
 
@@ -255,7 +255,7 @@ This task strengthened my understanding of data preprocessing techniques, which 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Ajitdada Gajanan Gharge**
 
