@@ -1,6 +1,6 @@
 # Task 02 – Data Cleaning and Preparation using Python (Pandas)
 
-##  Internship
+## Internship
 **Company:** SkillCraft Technology
 
 **Role:** Data Analyst Intern
